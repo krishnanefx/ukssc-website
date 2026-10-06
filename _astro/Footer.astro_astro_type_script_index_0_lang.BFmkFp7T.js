@@ -1,1 +1,0 @@
-import{t as e}from"./bird-vignette.Cq5_vstD.js";var t=document.querySelector(`[data-bird-vignette]`);t&&e(t);
