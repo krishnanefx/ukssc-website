@@ -1,1 +1,0 @@
-import{t as e}from"./bird-vignette.DQ6CuF57.js";var t=document.querySelector(`[data-bird-vignette]`);t&&e(t);
